@@ -1,4 +1,4 @@
-# Android Product App
+# Android Assignment
 
 This is an Android application that allows users to list products, search for products, and add new products with validation and image selection.
 
