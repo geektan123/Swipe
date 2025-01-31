@@ -40,11 +40,11 @@ git clone https://github.com/geektan123/Swipe.git -b Final
 - BottomSheetDialogFragment (Add Product UI)
 
 ## Assignment Videos
-- [Video 1](https://drive.google.com/file/d/1lzf60Bvl1fQjrW0Qxz5CScJdlGr15vM9/view?usp=drive_link)
-- [Video 2](https://drive.google.com/file/d/1m-oCGg4iDEt_fb2lPoanPcx9qqmmE3HE/view?usp=drive_link)
+- [Video 1]-https://drive.google.com/file/d/1lzf60Bvl1fQjrW0Qxz5CScJdlGr15vM9/view?usp=sharing
+- [Video 2]-https://drive.google.com/file/d/1m-oCGg4iDEt_fb2lPoanPcx9qqmmE3HE/view?usp=sharing
 
 ## Screenshots
-Apk Link- https://drive.google.com/file/d/1qWamY0Q1Fk5L2DUkdzZm90diuKA8xKam/view?usp=drive_link
+Apk Link- https://drive.google.com/file/d/1qWamY0Q1Fk5L2DUkdzZm90diuKA8xKam/view?usp=sharing
 
 ## Author
 - Tanay Jha(tanayjha92@gmail.com)
