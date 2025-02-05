@@ -16,13 +16,8 @@ This is an Android application that allows users to list products, search for pr
 - Dropdown for selecting the product type.
 - Input fields for product name, selling price, and tax.
 - Image picker supporting JPEG/PNG with a 1:1 aspect ratio.
-- Field validation:
-  - Product type must be selected.
-  - Product name cannot be empty.
-  - Selling price and tax must be valid decimal numbers.
 - Submits data to the API using a POST request.
 - Displays progress indicator during upload.
-- Provides user feedback with a dialog and a notification.
 
 
 ## Installation & Setup
